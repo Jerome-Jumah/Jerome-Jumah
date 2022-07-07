@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/juma_jerome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juma_jerome" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jerome jumah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerome jumah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jerome-jumah-78b102206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerome jumah" height="30" width="40" /></a>
 <a href="https://fb.com/jerome jumah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jerome jumah" height="30" width="40" /></a>
 <a href="https://instagram.com/q.u.i.n.g_s.l.e.y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="q.u.i.n.g_s.l.e.y" height="30" width="40" /></a>
 </p>
