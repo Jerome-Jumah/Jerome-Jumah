@@ -7,7 +7,7 @@ Software Enginner
 I am a full stack developer with four years of coding experience. My primary focus is on building modern web applications using HTML, CSS, and JavaScript, with a strong emphasis on user experience and responsive design. I also have experience working with TypeScript and Node.js for backend development, as well as building mobile applications with Flutter. My ultimate goal is to continuously learn and improve my skills in order to become a proficient full stack developer. Thank you for visiting my profile
 
 * 🌍  I'm based in Kenya
-* ✉️  You can contact me at [jeromejuma25@gmail.com](mailto:jeromejuma25@gmail.com)
+* ✉️  You can contact me at [jeromejuma25@gmail.com](mailto:owinojumahjerome@gmail.com)
 * 🧠  I'm learning Devops
 * 🤝  I'm open to collaborating on Flutter, React Native,
 * ⚡  Chelsea through and through
