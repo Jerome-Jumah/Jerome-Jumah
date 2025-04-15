@@ -9,8 +9,8 @@ I am a full stack developer with four years of coding experience. My primary foc
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [owinojumahjerome@gmail.com](mailto:owinojumahjerome@gmail.com)
 * 🧠  I'm learning Devops
-* 🤝  I'm open to collaborating on Flutter, React Native,
-* ⚡  Chelsea through and through
+* 🤝  I'm open to collaborating on Flutter, React Native, Web based projects
+* ⚡  Chelsea
 
 <a href="https://www.github.com/Jerome-Jumah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jerome-Jumah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
